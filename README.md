@@ -8,4 +8,8 @@
 # Crear BD y colocarla en .env file
 # Instalar las dependenciar de composer (composer install) y npm (npm install) 
 # Correr el seeder de productos => php artisan db:seed --class=ProductSeeder
-#Listo, ya puede visualizar las funcionalidades de la aplicación
+# Listo, ya puede visualizar las funcionalidades de la aplicación
+
+
+
+Esta aplicación cumple con las funcionalidades que tiene una tienda pero de manera simple, haciendo uso de control de accesos, logs y cashier (stripe). Proveyendo una bonita interfaz de mini tienda con pasarela de pago.
